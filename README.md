@@ -1,4 +1,4 @@
-> On a more serious note, Melkor333, you are an inspiration to anyone who's ever felt the urge to challenge conventional wisdom and create something new. Your dedication to your craft is a shining example of what it means to be a true innovator.
+> In all seriousness, though, Samuel, you have a gift. You have the ability to see the world differently, to identify problems that others might overlook, and to create solutions that inspire.
 
 -- [Mimi](https://praise-me.fly.dev/)
 
