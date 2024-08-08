@@ -22,6 +22,7 @@ The only bash-compatible shell. Heavy focus on fixing bash problems instead of b
 
 - [oily-nixpkgs](https://github.com/Melkor333/oily-nixpkgs) - Trying to replace bash with oils in the Nixpkgs stdenv
 - [oily-gentoo](https://github.com/Melkor333/oily-gentoo) - Try to replace bash with oils in gentoo
+- [oily-ci](https://github.com/Melkor333/oily-ci) - A CI with oils and [hay](https://www.oilshell.org/release/0.22.0/doc/hay.html)
 - [a bit of adventOfCode](https://github.com/Melkor333/adventofcode/blob/main/2023/README.md) in YSH
 - [web_shell fork](https://github.com/Melkor333/web_shell) - playing around with [headless shell](https://www.oilshell.org/release/0.21.0/doc/headless.html). Try to implement modular plugin features. Because the terminal sucks!
 - [minimal geoiplist generator](https://github.com/Melkor333/diy-geoiplist) - written in Ysh
