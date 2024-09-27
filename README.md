@@ -20,6 +20,7 @@ The only bash-compatible shell. Heavy focus on fixing bash problems instead of b
 
 ### Projects
 
+- [oily-pine](https://github.com/Melkor333/oily-pine) - Build Alpine with oils as `/bin/sh`
 - [oily-nixpkgs](https://github.com/Melkor333/oily-nixpkgs) - Trying to replace bash with oils in the Nixpkgs stdenv
 - [oily-gentoo](https://github.com/Melkor333/oily-gentoo) - Try to replace bash with oils in gentoo
 - [oily-ci](https://github.com/Melkor333/oily-ci) - A CI with oils and [hay](https://www.oilshell.org/release/0.22.0/doc/hay.html)
