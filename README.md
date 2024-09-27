@@ -8,27 +8,29 @@
 
 ## Shell
 
-Bash stayed in the 90ies. People believe shell has to be like that. It's "only" glue. Noone uses shell. This is stupid!
+Bash stayed in the 90ies. People believe shell has to be like that. It's "only" glue. Noone wants to use shell. This is stupid!
 
 ### Solution: [Oils](https://oilshell.org)
 
-The only bash-compatible shell. Heavy focus on fixing bash problems instead of bringing a new language:
+The only bash-compatible shell. Heavy focus on fixing bash problems instead of "just" bringing yet another language:
 - Posix compliant: Can actually replace your /bin/sh (other than nushell, fish, etc.)
 - Native json parser/output
 - Partially upgrade your shell script by enabling flags
-  - static parsing (as much as possible) to find issues beforehand
+  - Enable new & modern concepts
+  - Disable old & flawed concepts
+- static parsing (as much as possible) to find issues beforehand
 
 ### Projects
 
 - [oily-pine](https://github.com/Melkor333/oily-pine) - Build Alpine with oils as `/bin/sh`
 - [oily-nixpkgs](https://github.com/Melkor333/oily-nixpkgs) - Trying to replace bash with oils in the Nixpkgs stdenv
 - [oily-gentoo](https://github.com/Melkor333/oily-gentoo) - Try to replace bash with oils in gentoo
-- [oily-ci](https://github.com/Melkor333/oily-ci) - A CI with oils and [hay](https://www.oilshell.org/release/0.22.0/doc/hay.html)
+- [oily-ci](https://github.com/Melkor333/oily-ci) - A CI experiment with oils and [hay](https://www.oilshell.org/release/0.22.0/doc/hay.html)
 - [a bit of adventOfCode](https://github.com/Melkor333/adventofcode/blob/main/2023/README.md) in YSH
 - [web_shell fork](https://github.com/Melkor333/web_shell) - playing around with [headless shell](https://www.oilshell.org/release/0.21.0/doc/headless.html). Try to implement modular plugin features. Because the terminal sucks!
 - [minimal geoiplist generator](https://github.com/Melkor333/diy-geoiplist) - written in Ysh
 - [timed interface](https://github.com/Melkor333/timed-stuff) - trying to expose my time tracking in ysh
-  - Also: oauth in shell
+  - Also: oauth in shell!
 
 ## Repetitive Server Configurations
 
@@ -49,5 +51,5 @@ It has the configuration definition built right into it's package manager. Nix (
 # Other fun stuff
 
 - [chess2brain](https://github.com/Melkor333/chess2brain) - The source for https://chess2brain.com
-- Get a part of [mattermost history](https://github.com/Melkor333/mattermost-history) based on a time range. Because Sometimes I want to know what happened in a specific time range.
+- Get a part of [mattermost history](https://github.com/Melkor333/mattermost-history) based on a time range. Because Sometimes I want to know what happened on a specific day .
 - Don't tell anyone but I've done some [nasty things](https://github.com/Melkor333/activedirectory_usercreator) as well.
