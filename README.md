@@ -31,6 +31,7 @@ The only bash-compatible shell. Heavy focus on fixing bash problems instead of "
 - [minimal geoiplist generator](https://github.com/Melkor333/diy-geoiplist) - written in Ysh
 - [timed interface](https://github.com/Melkor333/timed-stuff) - trying to expose my time tracking in ysh
   - Also: oauth in shell!
+- [my playground](https://github.com/Melkor333/oils-playground) for small things like a webserver...
 
 ## Repetitive Server Configurations
 
